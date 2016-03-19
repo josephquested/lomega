@@ -71,4 +71,4 @@ So, what are you waiting for? Start making that weird little hook shape with you
 *full ancient greek translation support*
 
 **LOMEGA™, OMEGA™ and the Ω™ symbol are all registered trademarks of Joseph Quested™
-and his subsidiary groups, shell corporations and parent companies. Trespassers will be prosecuted. Copyright 2016™**
+and his subsidiary groups, shell corporations and parent companies. Trespassers WILL be prosecuted. Copyright 2016™**
