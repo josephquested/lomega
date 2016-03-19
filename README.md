@@ -59,14 +59,15 @@ const obj = {key1: '1', key2: 2, key3: true}
 // from multiple arrays and objects using backticks + singlequotes on different lines!
 ```
 
-So, what are you waiting for? Start making that weird little hook shape with your hand, hit those **option + z** keys and never type the phrase console.log again.
+So, what are you waiting for? Start making that weird little hook shape with your hand, hit those **option + z** keys and never type the words console.log again.
 
 ##Future features:
 
-*global Ω variable declaration, so you don't need to import it into every script*   
+*global Ω variable declaration, so you don't need to import it into every script*
+
 *colored log support*  
 
-*multiline comments indent on each line subsequent line*  
+*multiline comments indent on each subsequent line*  
 
 *full ancient greek translation support*
 
