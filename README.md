@@ -46,8 +46,8 @@ const arr = ['...simply ', 'indescribable']
 Ω('my love for lomega is:', arr[1], arr[0] + arr[1])
 
 // my love for lomega is:
-// indefinable
-// ...simply indefinable
+// indescribable
+// ...simply indescribable
 ```
 ```js
 const arr = ['some ', 'information', 'arrays']
