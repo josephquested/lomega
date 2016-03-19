@@ -61,7 +61,7 @@ const obj = {key1: '1', key2: 2, key3: true}
 
 So, what are you waiting for? Start making that weird little hook shape with your hand, hit those **option + z** keys and never type the phrase console.log again.
 
-##future features:
+##Future features:
 
 *global Ω variable declaration, so you don't need to import it into every script*   
 *colored log support*  
