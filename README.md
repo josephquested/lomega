@@ -4,7 +4,7 @@
 
 What if I told you that you could become literally ten times more efficient in every way?   
 **...Get your head out of the clouds, goofball!** There's no way I can offer you that.
-But, I can offer you a console.log solution that is ten times more efficient. Lomega (Ω).
+But, I can offer you a console.log solution that is ten times more efficient. Lomega Ω.
 
 ##How do I install lomega?
 
@@ -14,7 +14,7 @@ Simply save lomega into your project with the following command:
 npm install lomega --save
 ```
 
-then import it into your project like so:
+then import it into your .js files like so:
 
 ```js
 // es6
@@ -63,8 +63,12 @@ So, what are you waiting for? Start making that weird little hook shape with you
 
 ##future features:
 
-*colored log support*   
+*global Ω variable declaration, so you don't need to import it into every script*   
+*colored log support*  
 
 *multiline comments indent on each line subsequent line*  
 
 *full ancient greek translation support*
+
+**LOMEGA™, OMEGA™ and the Ω™ symbol are all registered trademarks of Joseph Quested™
+and his subsidiary groups, shell corporations and parent companies. Trespassers will be prosecuted. Copyright 2016™.
