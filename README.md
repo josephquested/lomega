@@ -30,7 +30,7 @@ access the Ω function from anywhere:
 
 ```js
 // es6
-import global.Ω from ('lomega')
+import global.Ω from 'lomega'
 
 // es5
 global.Ω = require('lomega')
