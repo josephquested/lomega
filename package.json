@@ -1,6 +1,6 @@
 {
   "name": "lomega",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm package for quick console.logs",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/josephquested/lomega/issues"
   },
   "homepage": "https://github.com/josephquested/lomega#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
