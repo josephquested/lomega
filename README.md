@@ -24,6 +24,18 @@ import Ω from 'lomega'
 var Ω = require('lomega')
 ```
 
+Sick of typing that line over and over again at the top of your .js files? Me too!
+Chuck this code at the very top of your project entry point (IE: index.js), and
+access the Ω function from anywhere:
+
+```js
+// es6
+import global.Ω from ('lomega')
+
+// es5
+global.Ω = require('lomega')
+```
+
 What's that? You don't know how to *"do"* an omega symbol? Franky I'm not even sure that you're worthy of this package, but I will try to exercise patience. And lucky for you, typing the **Ω** symbol is as easy as pressing the **option + z**  keys on your Mac keyboard! Windows or Linux user? No problem:    
 
 **Windows users:** You could possibly download some kind of *"driver"*, whatever that means.  
@@ -62,8 +74,6 @@ const obj = {key1: '1', key2: 2, key3: true}
 So, what are you waiting for? Start making that weird little hook shape with your hand, hit those **option + z** keys and never type the words console.log again.
 
 ##Future features:
-
-*global Ω variable declaration, so you don't need to import it into every script*
 
 *colored log support*  
 
