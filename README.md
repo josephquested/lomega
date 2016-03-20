@@ -29,10 +29,7 @@ Chuck this code at the very top of your project entry point (IE: index.js), and
 access the Ω function from anywhere:
 
 ```js
-// es6
-import global.Ω from 'lomega'
-
-// es5
+// index.js
 global.Ω = require('lomega')
 ```
 
